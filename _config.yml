@@ -21,12 +21,11 @@ author: Badr El Ghazaoui
 
 navbar-links:
   About Me: "aboutme"
-  Topics:
-    IT: "https://badrrelghazaoui.github.io/tags/#it"
-    Books: "https://badrrelghazaoui.github.io/tags/#books"
-    Movies: "https://badrrelghazaoui.github.io/tags/#movies"
-    Philosophy: "https://badrrelghazaoui.github.io/tags/#philosophy"
-    Others: "https://badrrelghazaoui.github.io/tags/#others"
+  IT: "https://badrrelghazaoui.github.io/tags/#it"
+  Books: "https://badrrelghazaoui.github.io/tags/#books"
+  Movies: "https://badrrelghazaoui.github.io/tags/#movies"
+  Philosophy: "https://badrrelghazaoui.github.io/tags/#philosophy"
+  Others: "https://badrrelghazaoui.github.io/tags/#others"
 
 ################
 # --- Logo --- #
