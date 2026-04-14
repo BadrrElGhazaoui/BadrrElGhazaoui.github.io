@@ -51,12 +51,12 @@ round-avatar: True
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "badrrelghazaoui@gmail.com"
-  rss: false  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: false
+#  rss: false  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: false
   github: https://github.com/BadrrElGhazaoui
-  twitter: false
-  patreon: false
-  youtube: false
+#  twitter: false
+#  patreon: false
+#  youtube: false
   whatsapp: 0753963135
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
