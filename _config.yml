@@ -21,10 +21,10 @@ author: Badr El Ghazaoui
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Resources: "aboutme"
  
  
-  Author's home:
+  Author's home: "aboutme"
 
 ################
 # --- Logo --- #
@@ -35,7 +35,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
- round-avatar: false
+ round-avatar: True
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -52,11 +52,11 @@ avatar: "/assets/img/avatar-icon.png"
 social-network-links:
   email: "badrrelghazaoui@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: false
+ # facebook: 
   github: https://github.com/BadrrElGhazaoui
-  twitter: false
-  patreon: false
-  youtube: false
+ # twitter: 
+  #patreon: 
+  #youtube: 
   whatsapp: 0753963135
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
