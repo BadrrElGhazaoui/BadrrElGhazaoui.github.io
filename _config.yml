@@ -22,11 +22,11 @@ author: Badr El Ghazaoui
 navbar-links:
   About Me: "aboutme"
   Topics:
-    IT: "tags#it"
-    Books: "tags#books"
-    Movies: "tags#movies"
-    Philosophy: "tags#philosophy"
-    Others: "tags#others"
+    IT: "tags/#it"
+    Books: "tags/#books"
+    Movies: "tags/#movies"
+    Philosophy: "tags/#philosophy"
+    Others: "tags/#others"
 
 ################
 # --- Logo --- #
