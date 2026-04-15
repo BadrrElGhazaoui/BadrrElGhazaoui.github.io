@@ -21,7 +21,7 @@ author: Badr El Ghazaoui
 
 navbar-links:
   About Me: "aboutme"
-  IT: "https://badrrelghazaoui.github.io/tags/#it"
+  IT: "category/IT"
   Books: "https://badrrelghazaoui.github.io/tags/#books"
   Movies: "https://badrrelghazaoui.github.io/tags/#movies"
   Philosophy: "https://badrrelghazaoui.github.io/tags/#philosophy"
