@@ -4,29 +4,25 @@ title: "IT Posts"
 permalink: /category/IT/
 ---
 
-<div class="row">
+<div class="post-list">
   {% for post in site.categories.IT %}
-    <div class="col-sm-4">
-      <div class="card h-100">
-        <div class="card-header">
-          <h4 class="post-title">
-            <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
-          </h4>
-          <h5 class="post-date">{{ post.date | date: "%B %e, %Y" }}</h5>
-        </div>
-        <div class="card-body">
-          <p class="card-text">
-            {% if post.excerpt %}
-              {{ post.excerpt | strip_html | truncatewords: 50 }}
-            {% else %}
-              No content provided.
-            {% endif %}
-          </p>
-        </div>
-        <div class="card-footer bg-white border-top-0">
-          <a href="{{ post.url }}" class="btn btn-primary">Read More</a>
-        </div>
+    <div class="post-preview">
+      <a href="{{ post.url }}">
+        <h2 class="post-title">{{ post.title }}</h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+        {% endif %}
+      </a>
+      <p class="post-meta">
+        Posted on {{ post.date | date: "%B %-d, %Y" }}
+      </p>
+      <div class="post-entry">
+        {% if post.excerpt %}
+          {{ post.excerpt | strip_html | truncatewords: 50 }}
+        {% endif %}
+        <a href="{{ post.url }}" class="post-read-more">[Read&nbsp;More]</a>
       </div>
     </div>
+    <hr class="post-list-separator" />
   {% endfor %}
 </div>
