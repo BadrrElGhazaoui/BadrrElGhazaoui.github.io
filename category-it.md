@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "IT Posts"
+title: "IT"
 permalink: /category/IT/
 ---
 
