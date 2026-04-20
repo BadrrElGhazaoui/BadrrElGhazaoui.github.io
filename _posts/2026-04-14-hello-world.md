@@ -1,6 +1,5 @@
 ---
 title: Hello World!
-image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800 
 subtitle: My first post on my new blog
 categories: [IT]
 ---
