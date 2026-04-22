@@ -7,11 +7,8 @@ categories: [Books]
   <button onclick="showLang('fr')" id="btn-fr" class="lang-btn">Français</button>
   <button onclick="showLang('ar')" id="btn-ar" class="lang-btn">العربية</button>
 </div>
-
-<div id="lang-en" class="lang-content">
-<p>
-While I was out with my friend in the old medina, I noticed a bookstore selling unbought books for 90% off. <b>"10 Dh each"</b> it said. I picked up 3 books. This was the first one, took me 5 hours to finish, so let's recap and review.
-</p>
+<div id="lang-en" class="lang-content">  
+  <p>While I was out with my friend in the old medina, I noticed a bookstore selling unbought books for 90% off. <b>"10 Dh each"<b> it said. I picked up 3 books. This was the first one, took me 5 hours to finish, so let's recap and review.</p>
 
 <p>
 <b>PS:</b> What sparked my attention (beside the beautiful cover and the book's new condition) were the words "virus informatique" in the blurb.
@@ -29,9 +26,7 @@ While I was out with my friend in the old medina, I noticed a bookstore selling 
 
 The book is written by <b>Pascal Hérault</b> it's destined for 10-14 yo audience . To sum up , it speaks about a fictional internet phenomenon called "chimeres" which shows up in your device's screen and sucks the user into another world , an uknown one . The Story follows Anders , a high school student who's dad got sucked into one of those . While searching for a way to free his father , Anders recerives help from his "ordinary" librarian neighbor M.Paul , his tech genius cousin Benjamin and lastly his paranoid mother .
 Between chimeres , Anders and his father , mysteries uncover.
-
 </div>
-
 <div id="lang-fr" class="lang-content">
   
 Bonjour
