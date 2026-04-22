@@ -1,6 +1,6 @@
 ###########################################################
 ### Welcome to Beautiful Jekyll!
-### This config file is meant for settings that affect your entire website. When you first
+### This config file is meant for settings that affect your entire website. When you firstEDE8DC
 ### set up your website you should go through all these settings and edit them, but after
 ### the initial set up you won't need to come back to this file often.
 ###########################################################
@@ -135,7 +135,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FAF7F2"
+page-col: "#EDE8DC"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
