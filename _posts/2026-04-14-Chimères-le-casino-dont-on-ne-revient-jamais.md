@@ -11,7 +11,8 @@ categories: [Books]
 <div id="lang-en" class="lang-content">
 While I was out with my friend in the old medina , I noticed a bookstore selling unbuyed books for 90% off . <b>"10 Dh each"</b>it said. I picked up 3 books . This was the first one , took me 5 hours to finish , so let's recap and review . 
   
-<b>PS:</b> What sparked my attention (beside the beautiful cover and the book's new condition) were the words "virus informatique" in the blurb .
+  <b>PS:</b> What sparked my attention (beside the beautiful cover and the book's new condition) were the words "virus informatique" in the blurb .
+
   
 <figure style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/a4bba71b-0d91-41b5-82e3-a8e3e3f48493"
