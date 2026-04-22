@@ -1,6 +1,5 @@
 ---
 title: "Chimères : le casino dont on ne revient jamais"
-subtitle: My first post on my new blog
 categories: [Books]
 ---
 <div class="lang-switcher">
@@ -12,13 +11,17 @@ categories: [Books]
 <div id="lang-en" class="lang-content">
 While I was out with my friend in the old medina , I noticed a bookstore selling unbuyed books for 90% off . <b>"10 Dh each"</b>it said. I picked up 3 books . This was the first one , took me 5 hours to finish , so let's recap and review . 
 <b>PS:</b> What sparked my attention (beside the beautiful cover and the book's new condition) were the words "virus informatique" in the blurb .
-<img src="https://github.com/user-attachments/assets/a4bba71b-0d91-41b5-82e3-a8e3e3f48493" 
-     style="display:block; margin:auto; max-width:100%;" 
-     alt="Bookstore">
+  
+<figure style="text-align:center;">
+  <img src="https://github.com/user-attachments/assets/a4bba71b-0d91-41b5-82e3-a8e3e3f48493"
+       style="max-width:100%;"
+       alt="Bookstore">
+  <figcaption>Bookstore</figcaption>
+</figure>
+     
 <h2>Summary</h2>
+The book is written by <b>Pascal Hérault</b> it's destined for 10-14 yo audience . 
 </div>
-
-<div id="lang-fr" class="lang-content" style="display:none">
 
 Votre contenu en **français** ici.
 
