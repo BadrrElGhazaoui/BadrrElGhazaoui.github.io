@@ -13,4 +13,5 @@ Hi! My name is Badr El Ghazaoui . A 19 years old teenager from Casablanca,Morocc
 Lastly , I am doing this for myself . Like owning a house makes you feel secure , I own this corner of the internet .
 
 Aside from this , my opinion on such matters is not sacred and 100% true . I'm just sharing my thoughts . 
+NB:If you have any questions/Need anything . My Whatsapp and Email are below .
 Enjoy!
