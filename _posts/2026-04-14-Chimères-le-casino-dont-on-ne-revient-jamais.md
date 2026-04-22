@@ -10,19 +10,23 @@ categories: [Books]
 
 <div id="lang-en" class="lang-content">
 While I was out with my friend in the old medina , I noticed a bookstore selling unbuyed books for 90% off . <b>"10 Dh each"</b>it said. I picked up 3 books . This was the first one , took me 5 hours to finish , so let's recap and review . 
+  
 <b>PS:</b> What sparked my attention (beside the beautiful cover and the book's new condition) were the words "virus informatique" in the blurb .
   
 <figure style="text-align:center;">
   <img src="https://github.com/user-attachments/assets/a4bba71b-0d91-41b5-82e3-a8e3e3f48493"
        style="max-width:100%;"
        alt="Bookstore">
-  <figcaption>Bookstore</figcaption>
+  <figcaption>The Bookstore</figcaption>
 </figure>
      
 <h2>Summary</h2>
-The book is written by <b>Pascal Hérault</b> it's destined for 10-14 yo audience . 
-</div>
 
+The book is written by <b>Pascal Hérault</b> it's destined for 10-14 yo audience . To sum up , it speaks about a fictional internet phenomenon called "chimeres" which shows up in your device's screen and sucks the user into another world , an uknown one . The Story follows Anders , a high school student who's dad got sucked into one of those . While searching for a way to free his father , Anders recerives help from his "ordinary" librarian neighbor M.Paul , his tech genius cousin Benjamin and lastly his paranoid mother .
+Between chimeres , Anders and his father , mysteries uncover.
+
+<div id="lang-fr" class="lang-content">
+  
 Votre contenu en **français** ici.
 
 Lorem ipsum en français...
