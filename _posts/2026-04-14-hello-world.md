@@ -1,5 +1,5 @@
 ---
-title: Chimères : le casino dont on ne revient jamais
+title: "Chimères : le casino dont on ne revient jamais"
 subtitle: My first post on my new blog
 categories: [Books]
 ---
