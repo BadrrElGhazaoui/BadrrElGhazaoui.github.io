@@ -13,7 +13,8 @@ categories: [Books]
 
 Your **English** content goes here.
 
-Lorem ipsum in English...
+While I was out with my friend in the old medina , I noticed a bookstore selling unbuyed books for 90% off . "10 Dh each" it said. I picked up 3 books . This was the first one , took me 5 hours to finish , so let's recap and review . 
+PS: What sparked my attention (beside the beautiful cover and the book's new condition) were the words "virus informatique" in the blurb .
 
 </div>
 
