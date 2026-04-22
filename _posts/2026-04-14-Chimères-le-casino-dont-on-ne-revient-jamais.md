@@ -29,14 +29,14 @@ While I was out with my friend in the old medina, I noticed a bookstore selling 
 
 The book is written by <b>Pascal Hérault</b> it's destined for 10-14 yo audience . To sum up , it speaks about a fictional internet phenomenon called "chimeres" which shows up in your device's screen and sucks the user into another world , an uknown one . The Story follows Anders , a high school student who's dad got sucked into one of those . While searching for a way to free his father , Anders recerives help from his "ordinary" librarian neighbor M.Paul , his tech genius cousin Benjamin and lastly his paranoid mother .
 Between chimeres , Anders and his father , mysteries uncover.
-
-<div id="lang-fr" class="lang-content" style="display:none; direction:rtl; text-align:right">
+</div>
+<div id="lang-fr" class="lang-content">
   
 Bonjour
 
 </div>
 
-<div id="lang-ar" class="lang-content" style="display:none; direction:rtl; text-align:right">
+<div id="lang-ar" class="lang-content">
 
 المحتوى **العربي** هنا.
 joea]fkpية...
