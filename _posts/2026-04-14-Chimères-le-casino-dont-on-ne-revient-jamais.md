@@ -9,9 +9,13 @@ categories: [Books]
 </div>
 
 <div id="lang-en" class="lang-content">
-While I was out with my friend in the old medina , I noticed a bookstore selling unbuyed books for 90% off . <b>"10 Dh each"</b>it said. I picked up 3 books . This was the first one , took me 5 hours to finish , so let's recap and review . 
-  
-  <b>PS:</b> What sparked my attention (beside the beautiful cover and the book's new condition) were the words "virus informatique" in the blurb .
+<p>
+While I was out with my friend in the old medina, I noticed a bookstore selling unbought books for 90% off. <b>"10 Dh each"</b> it said. I picked up 3 books. This was the first one, took me 5 hours to finish, so let's recap and review.
+</p>
+
+<p>
+<b>PS:</b> What sparked my attention (beside the beautiful cover and the book's new condition) were the words "virus informatique" in the blurb.
+</p>
 
   
 <figure style="text-align:center;">
@@ -28,9 +32,9 @@ Between chimeres , Anders and his father , mysteries uncover.
 
 <div id="lang-fr" class="lang-content">
   
-Votre contenu en **français** ici.
+Votre contenu en <strong>français</strong> ici.
 
-Lorem ipsum en français...
+<p>Lorem ipsum en français...</p>
 
 </div>
 
