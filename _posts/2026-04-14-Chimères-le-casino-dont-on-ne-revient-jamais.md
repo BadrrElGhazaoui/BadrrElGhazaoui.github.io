@@ -32,17 +32,14 @@ Between chimeres , Anders and his father , mysteries uncover.
 
 <div id="lang-fr" class="lang-content" style="display:none; direction:rtl; text-align:right">
   
-Votre contenu en <strong>français</strong> ici.
-
-<p>Lorem ipsum en français...</p>
+Bonjour
 
 </div>
 
 <div id="lang-ar" class="lang-content" style="display:none; direction:rtl; text-align:right">
 
 المحتوى **العربي** هنا.
-
-لوريم إيبسوم بالعربية...
+joea]fkpية...
 
 </div>
 
