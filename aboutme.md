@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
+Hi! My name is Badr El Ghazaoui . A 19 years old teenager from Casablanca,Morocco . I have made this blog for the following reasons:
+1- I love reading books , so naturally I want to share my opinion on them . 
+2- Everyone watches movies , but do you really take anything from it ? or just your daily dopamine dosage . 
+3- I always wanted to share my small IT knowledge . 
+Lastly , I am doing this for myself . Like owning a house makes you feel secure , I own this corner of the internet .
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Aside from this , my opinion on such matters is not sacred and 100% true . I'm just sharing my thoughts . 
+Enjoy!
