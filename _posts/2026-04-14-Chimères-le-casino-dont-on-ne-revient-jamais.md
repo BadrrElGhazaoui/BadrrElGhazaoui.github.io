@@ -47,6 +47,7 @@ function showLang(lang) {
   document.getElementById('lang-' + lang).style.display = 'block';
   document.getElementById('btn-' + lang).classList.add('active');
 }
+  showLang('en');
 </script>
 <style>
 .lang-switcher { margin-bottom: 20px; }
