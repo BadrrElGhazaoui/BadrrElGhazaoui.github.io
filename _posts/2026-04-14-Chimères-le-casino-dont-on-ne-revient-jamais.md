@@ -16,7 +16,7 @@ categories: [Books]
 
   
 <figure style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/a4bba71b-0d91-41b5-82e3-a8e3e3f48493"
+  <img src="https://github.com/user-attachments/assets/a4bba71b-0d91-41b5-82e3-a8e3e3f48493" loading="lazy"
        style="max-width:100%;"
        alt="Bookstore">
   <figcaption>The Bookstore</figcaption>
@@ -27,19 +27,19 @@ categories: [Books]
 Between chimeres , Anders and his father , mysteries uncover.</p>
 
 <figure style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/024f6684-b7ad-4a75-ae8d-d3c5afe1e98b"
+  <img src="https://github.com/user-attachments/assets/024f6684-b7ad-4a75-ae8d-d3c5afe1e98b" loading="lazy"
        style="max-width:100%;"
        alt="Book 1">
 </figure>
 
 <h3>Chapters Summary</h3>
-<b>Chapter 1: Watson : </b>The chapter begins with Anders in class visited by a police officer , Watson . She began explaining chimeres,we learn 4 aspects.Chimeres are viruses of unkown sources that can take over any device(videogame-phone-Tv...)even internet connexions.Second,if you come to face it, you are dragged into an unknown world.Third,to detect them you begin having blurry eyes , sleepy and sometimes the devices flashes . Forth,The only working solution against them is to simply turnoff your device.(There is mention of special glasses to wear but they are really expensive). At last we learn that Watson is a Humanoid , a robot!
-<b>Chapter 2:Mr Paul:</b>Anders arrives home, tels his mother about his day as she complaints about humanoides taking over her job.She sends her son to deliever food for the next door ex-librarian , Mr Paul , one of the few to still posses books. He invites the teen to his monthly gathering.The protagonist leaves thinking about his father whereabouts,he visits his cousin's tech shop.
-<b>Chapter 3:Jeff:</b>A sleepless night is startled with his dad's coming home , all bruised and cut. Jeff,Anders dad,reveals that due to robot effeciency he lost his job.Now he has to work in illegal construction sites as a builder.The high schooler finally sleeps on the sound of his parents fighting.In morning he attends to his neighbor's boring party,running into his dad on the way back , the latter claims going out to see some friends.....
-<b>Chapter4:Where is Jeff ?:</b>Linda,Ander's mother,is working nightshift.Jeff is still not home,searching for him,Anders runs into Jeff's old friend who claims he saw him taking a phone call in an aley , arriving there , a kid tells Anders that his dad is absorbed by a chimere!
-<b>Chapter 5:The Message :</b>The family requests Watson's help,after listening to their paroles.Watson begins searching for Jeff,tho at night Anders turns on his dad's phone in which he finds this Message : IF YOU WANT TO SEE YOUR DAD AGAIN , AWAIT FURTHER INSTRUCTIONS . WE ARE POWERFUL , DON'T TRY ANYTHING.
-<b>Chapter 6:Help:</b>Being a robot , Watson detects the family's lying . As they take a night walk discussing the situation,they run into Mr Paul who shares some thoughts.Working at night ,Linda leaves her son with him.In which he seeks help.
-<b>Chapter 7:</b>
+<p><b>Chapter 1: Watson : </b>The chapter begins with Anders in class visited by a police officer , Watson . She began explaining chimeres,we learn 4 aspects.Chimeres are viruses of unkown sources that can take over any device(videogame-phone-Tv...)even internet connexions.Second,if you come to face it, you are dragged into an unknown world.Third,to detect them you begin having blurry eyes , sleepy and sometimes the devices flashes . Forth,The only working solution against them is to simply turnoff your device.(There is mention of special glasses to wear but they are really expensive). At last we learn that Watson is a Humanoid , a robot!</p>
+<p><b>Chapter 2:Mr Paul:</b>Anders arrives home, tels his mother about his day as she complaints about humanoides taking over her job.She sends her son to deliever food for the next door ex-librarian , Mr Paul , one of the few to still posses books. He invites the teen to his monthly gathering.The protagonist leaves thinking about his father whereabouts,he visits his cousin's tech shop.</p>
+<p><b>Chapter 3:Jeff:</b>A sleepless night is startled with his dad's coming home , all bruised and cut. Jeff,Anders dad,reveals that due to robot effeciency he lost his job.Now he has to work in illegal construction sites as a builder.The high schooler finally sleeps on the sound of his parents fighting.In morning he attends to his neighbor's boring party,running into his dad on the way back , the latter claims going out to see some friends.....</p>
+<p><b>Chapter4:Where is Jeff ?:</b>Linda,Ander's mother,is working nightshift.Jeff is still not home,searching for him,Anders runs into Jeff's old friend who claims he saw him taking a phone call in an aley , arriving there , a kid tells Anders that his dad is absorbed by a chimere!</p>
+<p><b>Chapter 5:The Message :</b>The family requests Watson's help,after listening to their paroles.Watson begins searching for Jeff,tho at night Anders turns on his dad's phone in which he finds this Message : IF YOU WANT TO SEE YOUR DAD AGAIN , AWAIT FURTHER INSTRUCTIONS . WE ARE POWERFUL , DON'T TRY ANYTHING.</p>
+<p><b>Chapter 6:Help:</b>Being a robot , Watson detects the family's lying . As they take a night walk discussing the situation,they run into Mr Paul who shares some thoughts.Working at night ,Linda leaves her son with him.In which he seeks help.</p>
+<p><b>Chapter 7:</b></p><b>Chapter 7:</b>
 </div>
 <div id="lang-fr" class="lang-content">
   
