@@ -22,10 +22,12 @@ categories: [Books]
   <figcaption>The Bookstore</figcaption>
 </figure>
      
-<h2>Summary</h2>
+<h2>Preview</h2>
 
 The book is written by <b>Pascal Hérault</b> it's destined for 10-14 yo audience . To sum up , it speaks about a fictional internet phenomenon called "chimeres" which shows up in your device's screen and sucks the user into another world , an uknown one . The Story follows Anders , a high school student who's dad got sucked into one of those . While searching for a way to free his father , Anders recerives help from his "ordinary" librarian neighbor M.Paul , his tech genius cousin Benjamin and lastly his paranoid mother .
 Between chimeres , Anders and his father , mysteries uncover.
+<h3>Chapters Summary</h3>
+<b>Chapter 1:Watson</b>The chapter begins with Anders in class visited by a police officer , Watson . She began explaining chimeres,we learn 4 aspects.Chimeres are viruses of unkown sources that can take over any device(videogame-phone-Tv...)even internet connexions.Second,if you come to face it, you are dragged into an unknown world.Third,to detect them you begin having blurry eyes , sleepy and sometimes the devices flashes . Forth,The only working solution against them is to simply turnoff your device.(There is mention of special glasses to wear but they are really expensive). At last we learn that Watson is a Humanoid , a robot!
 </div>
 <div id="lang-fr" class="lang-content">
   
