@@ -16,7 +16,7 @@ categories: [Books]
 
   
 <figure style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/a4bba71b-0d91-41b5-82e3-a8e3e3f48493" 
+  <img src="https://github.com/user-attachments/assets/a4bba71b-0d91-41b5-82e3-a8e3e3f48493" width="800" height="500"
        style="max-width:100%;"
        alt="Bookstore">
   <figcaption>The Bookstore</figcaption>
@@ -27,7 +27,7 @@ categories: [Books]
 Between chimeres , Anders and his father , mysteries uncover.</p>
 
 <figure style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/024f6684-b7ad-4a75-ae8d-d3c5afe1e98b" 
+  <img src="https://github.com/user-attachments/assets/024f6684-b7ad-4a75-ae8d-d3c5afe1e98b" width="800" height="500"
        style="max-width:100%;"
        alt="Book 1">
 </figure>
