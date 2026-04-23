@@ -16,7 +16,7 @@ categories: [Books]
 
   
 <figure style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/a4bba71b-0d91-41b5-82e3-a8e3e3f48493" loading="lazy"
+  <img src="https://github.com/user-attachments/assets/a4bba71b-0d91-41b5-82e3-a8e3e3f48493" 
        style="max-width:100%;"
        alt="Bookstore">
   <figcaption>The Bookstore</figcaption>
@@ -27,7 +27,7 @@ categories: [Books]
 Between chimeres , Anders and his father , mysteries uncover.</p>
 
 <figure style="text-align:center;">
-  <img src="https://github.com/user-attachments/assets/024f6684-b7ad-4a75-ae8d-d3c5afe1e98b" loading="lazy"
+  <img src="https://github.com/user-attachments/assets/024f6684-b7ad-4a75-ae8d-d3c5afe1e98b" 
        style="max-width:100%;"
        alt="Book 1">
 </figure>
@@ -39,7 +39,7 @@ Between chimeres , Anders and his father , mysteries uncover.</p>
 <p><b>Chapter4:Where is Jeff ?:</b>Linda,Ander's mother,is working nightshift.Jeff is still not home,searching for him,Anders runs into Jeff's old friend who claims he saw him taking a phone call in an aley , arriving there , a kid tells Anders that his dad is absorbed by a chimere!</p>
 <p><b>Chapter 5:The Message :</b>The family requests Watson's help,after listening to their paroles.Watson begins searching for Jeff,tho at night Anders turns on his dad's phone in which he finds this Message : IF YOU WANT TO SEE YOUR DAD AGAIN , AWAIT FURTHER INSTRUCTIONS . WE ARE POWERFUL , DON'T TRY ANYTHING.</p>
 <p><b>Chapter 6:Help:</b>Being a robot , Watson detects the family's lying . As they take a night walk discussing the situation,they run into Mr Paul who shares some thoughts.Working at night ,Linda leaves her son with him.In which he seeks help.</p>
-<p><b>Chapter 7:</b></p><b>Chapter 7:</b>
+<p><b>Chapter 7-12</b></p>
 </div>
 <div id="lang-fr" class="lang-content">
   
