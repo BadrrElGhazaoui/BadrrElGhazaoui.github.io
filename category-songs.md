@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Songs"
-permalink: /category/songs/
+permalink: /category/Songs/
 ---
 <div class="post-list">
   {% for post in site.categories.Songs %}
