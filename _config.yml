@@ -24,6 +24,7 @@ navbar-links:
   IT: "category/IT/"
   Books: "category/Books"
   Movies: "category/Movies"
+  Songs: "category/Songs"
 
 ################
 # --- Logo --- #
