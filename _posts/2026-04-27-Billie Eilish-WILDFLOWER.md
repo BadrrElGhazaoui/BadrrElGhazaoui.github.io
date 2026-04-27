@@ -3,7 +3,7 @@ title: Billie Eilish-Wildflower
 categories: Songs
 ---
 <p>There is a type of songs that feel like they play inside your soul , this is one of them . When I first listened to this song , I felt like I was about to die . It just gets you to places . Let's talk more about it!</p>
-<img width="800" height="600" alt="27f1333e51da26945aae9ff97cdff2d8" src="https://github.com/user-attachments/assets/ab279f2f-d93a-4e69-9dca-64e686cb8757" />
+<img width="300" height="300" alt="ab67616d00001e02a2a4d86ee0a74e3f3c79dce8" src="https://github.com/user-attachments/assets/382c31fe-1568-42c6-876d-6a00061179fa" />
 <p><b>Context</b></p>
 <p>So the story goes that Devon Lee Carlson and Jesse Rutherford (two influencers) were dating and in love until 2021 , after the break up , Devon found refuge in Billie (her friend) . All was good until July 2022 , Billie began dating Jesse . She couldn't bare backstabing her friend so they ended things in Mai 2023 , she still sees her friend in the back of her mind . </p>
 <p>PS:Apparently the songs name (wildflower) is taken from a limited iphone cases collection by Devon lee , her friend . </p>
