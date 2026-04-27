@@ -11,3 +11,14 @@ To the point it earned the name <b>"The Human Slaughterhouse"</b>.But from the d
 <p><b>The Wall</b><br>Walking in the prison , One of Al Jazeera's reporters saw a wall where was written these words:<br>
 <i>بينا معاد  لو إحنا بعاد  أكيد راجع ولو بيني وبينه بلاد</i></p>As soon as I saw it , tears came down from my eyes . It was like seeing a master piece , I'll let you see for yourself : 
 <img width="980" height="529" alt="قصاد عيني من داخل سجن صيدنايا بسورياعمرو دياب معروف ان له قاعده جماهيريه كبيره في سوريا❤️_#foryo" src="https://github.com/user-attachments/assets/2d59f77e-f66c-4b9a-969b-bedaa66ca4e3" />
+<b>Review</b><br>
+<p>For those who don't know, Amr diab is well known amongst our arab mothers . Much like Justin Bieber 2010 era .
+The song is about going back to your lover no matter what happens , promising him you will be back together , having hope while he lost it.</p>
+<p>My favorite part is : <br> ومش قادر على الأيام
+ولا هيوصف هوايا كلام
+وطول ليلي ولما بنام</p>
+<p>It says that I can't resist the days , no words can describe my love , and the long nights I sleep . For me it means that I can't bare the days I live without you , even tho I don't know you now , I still can't live without you . Words can't describe how much I want you , how much I need you . The long I spend dreaming about you , thinking about you . Will I ever see you ? Will I ever know you?</p>
+<p>في يوم هنعود
+ده بينا وعود
+وفي غيابه أكيد لسه الأمل موجود</p>
+<p>One day we will go back to each other , we have promises between us , in your absence , there is still hope . To anyone going through a breakup , if you love that person , have hope , it is the only thing you got . To those who have never known their true lovers , have hope , it is the only thing you got . We were all strangers once .</p>
